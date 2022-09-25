@@ -1,0 +1,50 @@
+@media only screen and (min-width: 768px) {
+    html {
+        font-size: 1.3vw;
+    }
+}
+
+.card {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.card-body {
+    padding-bottom: 0;
+}
+
+.card-title {
+    color: rgb(16, 76, 230);
+}
+
+.day-of-age {
+    color: brown;
+    position: relative;
+}
+
+.change-btn {
+    line-height: 1.2;
+    height: 1.2;
+}
+
+.row-change {
+    justify-content: center;
+    position: relative;
+}
+
+#save-btn {
+    height: 50%;
+    right: 0;
+    top: 0;
+    padding: 0;
+    width: 25%;
+}
+
+#save-btn p {
+    margin: 0;
+}
+
+#reset-btn {
+    width: 25%;
+    padding: 0;
+}
